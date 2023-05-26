@@ -5,12 +5,12 @@
 p {
    margin: 11px;
  }
- nav {
+ header {
   font-family: tahoma;
   position: sticky;
   top: 0px;
   height: 46px;
-  background: #fff;
+  background-color: white;
   border: 1px solid lightgray;
 
  }
@@ -35,7 +35,7 @@ p {
   height: 100%;
   float: right;
 }
-div {
+.login {
   font-family: tahoma;
   font-size: 21px;
   color: #555;
